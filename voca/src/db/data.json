@@ -11,6 +11,14 @@
     {
       "id": 3,
       "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
     }
   ],
   "words": [
@@ -48,6 +56,27 @@
       "eng": "pencil",
       "kor": "연필",
       "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": true,
+      "id": 7
+    },
+    {
+      "day": "1",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "5",
+      "eng": "test",
+      "kor": "테스트",
+      "isDone": true,
+      "id": 9
     }
   ]
 }
